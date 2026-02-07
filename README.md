@@ -1,5 +1,7 @@
+**Live Link:https://cursor-clone-drab-five.vercel.app/
 
-[Output Screenshot](assets/output-c.jpeg "output-cursor")
+**OutputScreenshot:
+[CURSOR](assets/output-c.jpeg "output-cursor")
 # Cursor Website
 
 A modern, responsive website for Cursor - an AI-powered code editor. This project showcases a sleek dark theme design with interactive sections and brand displays.
